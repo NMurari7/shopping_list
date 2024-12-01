@@ -143,3 +143,12 @@ header h1 {
 .bg-dark{
   background-color: #1a1a1a;
 }
+
+li {
+  color: white;
+}
+
+.form-input-filter{
+  color: white;
+}
+
